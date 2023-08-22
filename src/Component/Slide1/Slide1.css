@@ -1,0 +1,7 @@
+.slide1{
+    background-color: var(--color-black);
+    width: 1445px;
+    height: 800px;
+    margin:auto;
+    padding: 60px;
+}

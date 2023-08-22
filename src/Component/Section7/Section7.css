@@ -1,0 +1,43 @@
+.s7{
+    width: 1140px;
+    height: 629px;
+    margin: auto;
+    font-family: inter,sans-serif;
+}
+.s7-header{
+ 
+font-size: 54px;
+font-weight: 600;
+line-height: 75px;
+color:
+#FFFFFF ;
+}
+.s7-main-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-family: inter,sans-serif;
+}
+.s7-container1{
+    width: 350px;
+    height: 58px;
+    color: 
+    #FFFFFF;
+    opacity: 0.3;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+
+
+}
+.s7-container2{
+    width: 564px;
+    height: 540px;
+}
+.accordion{
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+color: #FFFFFF;
+
+}

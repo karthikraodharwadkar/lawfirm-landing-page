@@ -1,0 +1,40 @@
+.s2-main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1132px;
+    height: 174px;
+    margin: 80px auto;
+    font-family: inter,sans-serif;
+}
+.s2-container1{
+    width: 387px;
+    height: 147px;
+    color:#FFFFFF;
+    font-size: 54px;
+    line-height: 87px;
+    font-weight: 600;
+}
+.s2-c2-header{
+    width: 249px;
+    height: 52px;
+    font-size: 32px;
+    line-height: 52px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.s2-c2-content{
+    width: 475px;
+    height: 87px;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 500;
+    opacity: 0.3;
+    color:#FFFFFF;
+}
+.s2-vertical-line{
+    border: 1px solid #6A6A6A;
+    width: 206px;
+    rotate: -90deg;
+}
+

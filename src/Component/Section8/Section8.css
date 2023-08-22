@@ -1,0 +1,50 @@
+.s8-main-container{
+ width: 1245px;
+height: 356px;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+align-items: center;
+background-color: #474747;
+margin: auto;
+font-family: inter,sans-serif;
+}
+.s8-container1{
+font-size: 55px;
+font-weight: 500;
+line-height: 75px;
+color: #FFFFFF;
+}
+#s8-name{
+    width: 276px;
+    height: 53px;
+    border-radius: 8px 0px 0px 8px;
+    border: none;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 10px;
+    margin:5px;
+}
+#s8-email{
+    width: 276px;
+    height: 53px;
+    border: none;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 10px;
+    margin:5px;
+}
+input[type="submit"]{
+width: 116px;
+height: 53px;
+border-radius: 0px 8px 8px 0px;
+background-color: #E3B748;
+border: none;
+font-weight: 400;
+font-size: 14px;
+cursor: pointer;
+}

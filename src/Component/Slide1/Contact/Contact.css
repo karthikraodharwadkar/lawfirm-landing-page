@@ -1,0 +1,9 @@
+.btn{
+    width: 172px;
+    height: 47px;
+    color:#FFFFFF;
+    border: 2px solid #FFFFFF;
+    background-color: var(--color-black);
+    cursor: pointer;
+    font-family: inter,sans-serif;
+}
